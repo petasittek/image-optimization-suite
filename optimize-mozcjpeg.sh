@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Optimize images with jpeg-recompress
+# Optimize images with mozcjpeg
 
 # Config - global
 DIR_SCRIPT=$( dirname $0 )

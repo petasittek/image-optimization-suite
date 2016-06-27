@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Optimize images with jpeg-recompress
+# Optimize images with jpeg-recompress - ssim
 
 # Config - global
 DIR_SCRIPT=$( dirname $0 )
